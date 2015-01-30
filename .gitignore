@@ -1,0 +1,5 @@
+/node_modules/
+/.sass-cache
+/public/lib/
+/tmp/
+/img/

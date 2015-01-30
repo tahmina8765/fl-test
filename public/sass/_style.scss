@@ -1,0 +1,20 @@
+.navbar-nav{
+    li{
+        a{
+            font-weight: bold;
+        }
+    }
+}
+h3{
+    border-bottom: 1px solid $gray-lighter;
+    font-weight: normal;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    span{
+        font-weight: bold;
+    }
+}
+
+form{
+    max-width: 500px;
+}
