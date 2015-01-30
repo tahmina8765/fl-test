@@ -6,9 +6,11 @@
     }
 }
 h3{
-    border-bottom: 1px solid $gray-lighter;
+    border-bottom: 1px solid $table-border-color;
     font-weight: normal;
     padding-bottom: 10px;
+    padding-top: 5px;
+    margin-top: 10px;
     margin-bottom: 15px;
     span{
         font-weight: bold;
@@ -16,5 +18,8 @@ h3{
 }
 
 form{
+    border-top: 2px solid $table-border-color;
+    border-bottom: 1px solid $table-border-color;
     max-width: 500px;
+    padding-bottom: 15px;
 }
